@@ -1,1 +1,1 @@
-# doge_ngu_hoc_jenkin
+# CI/CD practice
